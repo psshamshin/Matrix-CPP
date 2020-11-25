@@ -1,0 +1,3 @@
+﻿  matrix2.cpp
+D:\C++Projects\matrix2\matrix2\matrix2.cpp(16,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  matrix2.vcxproj -> D:\C++Projects\matrix2\Debug\matrix2.exe
